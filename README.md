@@ -19,7 +19,7 @@ This project allows users to create albums, upload images with titles, and perfo
 ## Setup Instructions:
 
 1. **Clone the repository**:
-   ```bash git clone https://github.com/your-username/react-firebase-album.git```
+   ```bash git clone <https://github.com/bharatlal124/Photo-folio-Project>```
 
 2. **Install dependencies**:
     ``` npm install```
